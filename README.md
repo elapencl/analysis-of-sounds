@@ -12,6 +12,6 @@ In this notebook we can listen to bands of snippets of one sound.
 ## Notebook: Listening to Bands of Different Sounds
 In this notebook we can listen to bands of different sounds.
 ## Notebook: Visualizing Band Envelopes of Snippets of one Sound and Visualizing Band Envelopes of Different Sounds
-In this notebook we will visualize band envelopes of different snippets of one sounds and we will visualize band envelopes of different sounds
+In this notebook we will visualize band envelopes of different snippets of one sounds and we will visualize band envelopes of different sounds.
 ## Notebook: Similarity Matrix
-In this notebook we will create a similarity matrix to see how different the marginal statistics of the envelopes of different sounds are. Here we subtract the marginal stats of bands (1-4) of each sound (1-4) from the marginal stats of the bands (1-4) of each sound (1-4). 
+In this notebook we will create a similarity matrix to see how different the marginal statistics of the envelopes of different sounds are. Here we subtract the marginal stats of band envelopes (1-4) of each sound (1-4) from the marginal stats of the band envelopes (1-4) of each sound (1-4). 
